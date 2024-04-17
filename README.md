@@ -53,8 +53,17 @@ This repository serves as a simple React Native application repo. By building 10
    - Implement animations and sound effects for a realistic dice rolling experience.
 
 6. **Project 6: Currency Converter (currency)**
+
    - Develop a currency converter application to convert between different currencies.
    - Integrate array and interface conversion rates.
+
+7. **Project 7: Game (TicTacToe)**
+
+   - Simple tic-tac-toe game using React Native.
+
+8. **Project 8: Music Player (Nathtube)**
+   - Develop a music player application using React Native.
+   - Implement features for playing, pausing, and seeking in the music player.
 
 ## Getting Started
 
