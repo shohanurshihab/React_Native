@@ -9,5 +9,4 @@ import { playbackService } from './musicPlayerServices';
 
 AppRegistry.registerComponent(appName, () => App);
 // AppRegistry.registerComponent(...);
-
 TrackPlayer.registerPlaybackService(() => playbackService);
