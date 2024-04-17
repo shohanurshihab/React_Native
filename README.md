@@ -17,6 +17,8 @@ In this repository, I've utilized a combination of technologies and libraries to
   - **Styled Components**: For styling React Native components with CSS-in-JS approach.
   - **React Native Elements**: For pre-designed and customizable UI components.
   - **React Native Snackbar**: For simple popup notication.
+  - **React Native Music Player**: For managing music files.
+  - **React Native Vector Icons**: For various fonts and icons.
 
 By incorporating these technologies and libraries, I've aimed to create robust, efficient, and feature-rich mobile applications while also learning and exploring the capabilities of each tool.
 
