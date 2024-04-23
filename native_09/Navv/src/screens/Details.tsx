@@ -1,14 +1,14 @@
 import { Button, StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 import { NativeStackNavigationProp, NativeStackScreenProps } from '@react-navigation/native-stack'
-import { RootStackParamList } from '../App'
+// import { RootStackParamList } from '../App'
 import { useNavigation } from '@react-navigation/native'
 
-type DetailsProps = NativeStackScreenProps<RootStackParamList, 'Details'>
+// type DetailsProps = NativeStackScreenProps<RootStackParamList, 'Details'>
 
-const Details = ({route}: DetailsProps) => {
+const Details = ({route}: any) => {
   const {productId} = route.params
-  const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>()
+  const navigation = useNavigation<NativeStackNavigationProp<any>>()
   return (
     <View style={styles.container}>
       <Text>Details: {productId} </Text>
