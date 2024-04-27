@@ -9,16 +9,14 @@ In this repository, I've utilized a combination of technologies and libraries to
 - **React Native**: The core framework for building mobile applications using JavaScript and React.
 - **TypeScript**: A statically typed superset of JavaScript that enhances code quality and developer productivity.
 - **Third-Party Libraries**: I've leveraged numerous third-party libraries to streamline development and add additional functionality to the projects. Some of these libraries include but are not limited to:
-  <!-- - **React Navigation**: For implementing navigation and routing within the applications.
-  - **Redux (or Redux Toolkit)**: For managing application state in a predictable manner.
-  - **Axios**: For making HTTP requests to external APIs.
-  - **Firebase**: For authentication, real-time database, and cloud storage functionalities. -->
+
   - **Expo**: For rapid development and access to a variety of native APIs.
   - **Styled Components**: For styling React Native components with CSS-in-JS approach.
   - **React Native Elements**: For pre-designed and customizable UI components.
   - **React Native Snackbar**: For simple popup notication.
   - **React Native Music Player**: For managing music files.
   - **React Native Vector Icons**: For various fonts and icons.
+  - **React Navigation**: For implementing navigation and routing within the applications.
 
 By incorporating these technologies and libraries, I've aimed to create robust, efficient, and feature-rich mobile applications while also learning and exploring the capabilities of each tool.
 
@@ -64,8 +62,19 @@ This repository serves as a simple React Native application repo. By building 10
    - Simple tic-tac-toe game using React Native.
 
 8. **Project 8: Music Player (Nathtube)**
+
    - Develop a music player application using React Native.
    - Implement features for playing, pausing, and seeking in the music player.
+
+9. **Project 9: Trial for Stack RN_Nvigation (Navv)**
+
+   - Develop a trial application using React Native.
+   - Implement features for navigation using React Navigation.
+
+10. **Project 10: E-commerce app (Mobomarket)**
+
+- Implement features for navigation using React Navigation.
+- Used stack navigation for navigation and passing data.
 
 ## Getting Started
 
