@@ -73,8 +73,8 @@ This repository serves as a simple React Native application repo. By building 10
 
 10. **Project 10: E-commerce app (Mobomarket)**
 
-- Implement features for navigation using React Navigation.
-- Used stack navigation for navigation and passing data.
+   - Implement features for navigation using React Navigation.
+   - Used stack navigation for navigation and passing data.
 
 ## Getting Started
 
