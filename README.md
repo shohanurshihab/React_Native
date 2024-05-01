@@ -76,6 +76,10 @@ This repository serves as a simple React Native application repo. By building 10
    - Implement features for navigation using React Navigation.
    - Used stack navigation for navigation and passing data.
 
+10. **Project 11: Expo(devm)**
+
+   - just tried expo
+
 
 ## Getting Started
 
